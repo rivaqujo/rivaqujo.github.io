@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://rivaqujo.github.io/sitemap/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/luW/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/hTl/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/JWv/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/gey/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/DdT/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/AXE/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/cgP/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/pyX/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/qcO/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/NiM/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/fiP/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/QwO/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/KpD/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/rPB/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/UPh/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/cNO/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/naT/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/gVy/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/EoM/sitemap_index.rivaqujo
+Sitemap: https://rivaqujo.github.io/wGe/sitemap_index.rivaqujo
